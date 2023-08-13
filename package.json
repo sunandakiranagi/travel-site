@@ -1,0 +1,24 @@
+{
+  "name": "travel-site-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodas": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunandakiranagi/travel-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunandakiranagi/travel-site/issues"
+  },
+  "homepage": "https://github.com/sunandakiranagi/travel-site#readme"
+}
